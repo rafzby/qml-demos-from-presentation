@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/background.png</file>
+        <file>images/cat.png</file>
+        <file>images/cat2.png</file>
+        <file>images/dog.png</file>
+        <file>images/edges_qml.png</file>
+        <file>images/margins_qml.png</file>
+        <file>images/pinwheel.png</file>
+        <file>images/pole.png</file>
+        <file>TrafficLight.qml</file>
+    </qresource>
+</RCC>
