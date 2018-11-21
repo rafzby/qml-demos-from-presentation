@@ -58,7 +58,7 @@ Window {
         MyButton {
             id: button1
 
-            buttonText: "Where is dog?"
+            buttonText: "Where is the dog?"
 
             onPressed: dog.visible = true
             onReleased: dog.visible = false
